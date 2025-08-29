@@ -3,4 +3,4 @@
 - 🌱 I’m currently working as a java backend developer.
 - 💞️ I’m looking to collaborate on opensource projects.
 - 🛠️ My current tech stacks are Java, Spring boot, Microservices, AWS/Azure and Docker & Kubernates, along with CI/CD with github Action and Jenkins.
-- 😄 Intersted to explore and learn Agentic AI.
+- 😄 Intersted to explore and learn Angular.
